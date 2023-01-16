@@ -1,0 +1,57 @@
+body{
+    background-image: url('Imagens/fundo.png');
+    background-size: auto;
+    font: 16px bolder Arial, Helvetica, sans-serif ;
+    
+}
+
+a{
+    color: #4b566a;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p{
+     font-weight: bolder;
+}
+
+.imagens_campanha{
+    width: 630px;
+    border: solid 10px #c5c5b2;
+ 
+ 
+}
+#config_capa{
+    position: relative;
+    margin-top: -20px;
+    width: 880px;
+    border: none;
+
+}
+
+#links-paginas{
+    background-color: #c5c5b2;
+    padding: 23px;
+    width: 853px;
+}
+
+.titulo{
+    color: #828271;
+    font-size: 1.2em;
+    
+}
+
+#corpo_conteudo{
+    background-color: #e8e8d9;
+    padding: 10px 20px 10px 12px;
+    width: 866px;
+   
+    font-size: 14px;
+}
+
+#rodape{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: 10px;
+}
